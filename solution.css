@@ -8,17 +8,11 @@
   display: inline-flex;
 }
 
-.fixme2 .one {
+.fixme2 div {
   padding-right: 15px;
 }
 
-.fixme2 .two {
-  padding-right: 15px;
-}
 
-.fixme2 .tri {
-  padding-right: 15px;
-}
 
 .fixme3 {
   background-color: yellow;
